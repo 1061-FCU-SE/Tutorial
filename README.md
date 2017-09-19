@@ -1,6 +1,8 @@
 # Tutorial
 為你提示，專案指引
 
+如果你使用Git、Github或IntelliJ IDEA有遇到問題，歡迎到 Issue 發問
+
 ---
 ## 必要軟體
 * Git (https://git-scm.com/)  
