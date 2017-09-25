@@ -1,6 +1,7 @@
 # GitHub 基本用法
 - [帳號註冊](#帳號註冊)
-- [建立與加入隊伍](#建立與加入隊伍)
+- [建立小組專案](#建立小組專案)
+- [將其他組員設定為協作者](#將其他組員設定為協作者)
 - [上傳檔案](#上傳檔案)
 
 ## 帳號註冊
@@ -16,25 +17,31 @@
 6. 完成後會看到以下畫面
 ![](./img/GitHub/register_05.png)
 
-## 建立與加入隊伍
-1. 點擊 iLearn 所公布之超連結  
-![](./img/GitHub/team_01.png)
-2. 進入 OAuth 授權頁面，點擊 `Authorize github` 進行授權  
-![](./img/GitHub/team_02.png)
-3. 進入 GitHub Classroom 頁面後，可以建立隊伍或加入隊伍，  
-![](./img/GitHub/team_03.png)
-    - 建立隊伍
-        1. 輸入隊伍名稱，並點擊 `Create team` 即可建立隊伍  
-![](./img/GitHub/team_04.png)
-        2. 出現以下畫面，代表隊伍已建立完成  
-![](./img/GitHub/team_05.png)
-        3. 同時，系統已自動建立隊伍作業專案  
-![](./img/GitHub/team_06.png)
-    - 加入隊伍
-        1. 找到想加入的隊伍，點擊 `Join` 即可加入隊伍  
-![](./img/GitHub/team_07.png)
-        2. 出現以下畫面，代表已經加入隊伍，此時即可存取隊伍作業專案  
-![](./img/GitHub/team_08.png)
+## 建立小組專案
+1. 進入課程提供之專案  
+![](./img/GitHub/create_team_01.png)
+2. 按下 `Fork` ，若出現以下視窗，請選擇自己的帳號  
+![](./img/GitHub/create_team_02.png)
+3. 等待專案建立  
+![](./img/GitHub/create_team_03.png)
+3. 進入剛建立的專案，由專案名稱確認，該專案是由課程提供之專案fork出來的  
+![](./img/GitHub/create_team_04.png)
+
+## 將其他組員設定為協作者
+1. 點擊 `Settings` → `Collaborators` 進入協作者設定頁面  
+![](./img/GitHub/collaborator_01.png)
+2. 輸入隊員帳號，並按下 `Add collaborator`  
+![](./img/GitHub/collaborator_02.png)
+3. 等待隊員接受邀請  
+（可請隊員收信並點擊通知信件中的連結，或點擊 `Copy invite link` 複製連結請隊員點擊）  
+![](./img/GitHub/collaborator_03.png)  
+![](./img/GitHub/collaborator_04.png)
+4. 隊員點擊 `Accept invitation` 接受邀請連結，並成為協作者  
+![](./img/GitHub/collaborator_05.png)
+5. 當隊員看到以下訊息，即表示已成為該專案之協作者  
+![](./img/GitHub/collaborator_06.png)
+
+
 
 ## 上傳檔案
 1. 進入隊伍作業專案  
