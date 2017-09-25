@@ -17,3 +17,9 @@
 * [Git 介紹](./Git.md)
 * [GitHub 基本用法](./GitHub.md)
 * 專案開發
+
+## 額外資源
+### Git
+* [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+* [連猴子都能懂的Git入門指南](https://backlogtool.com/git-tutorial/tw/)
+* [為你自己學 Git](http://gitbook.tw/)
