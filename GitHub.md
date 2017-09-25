@@ -37,3 +37,13 @@
 ![](./img/GitHub/team_08.png)
 
 ## 上傳檔案
+1. 進入隊伍作業專案  
+![](./img/GitHub/upload_01.png)
+2. 進入欲上傳檔案之路徑，點擊右上方的 `Upload files`  
+![](./img/GitHub/upload_02.png)
+3. 進入上傳介面  
+![](./img/GitHub/upload_03.png)
+4. 選擇檔案，並於 Commit changes 填寫 commit message 之後，點擊 `Commit changes`  
+![](./img/GitHub/upload_04.png)
+5. 上傳後，即可於該路徑看到上傳之檔案  
+![](./img/GitHub/upload_05.png)
