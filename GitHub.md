@@ -1,14 +1,13 @@
 # GitHub 基本用法
 - [帳號註冊](#帳號註冊)
 - [建立與加入隊伍](#建立與加入隊伍)
-- [建立作業專案](#建立作業專案)
 - [上傳檔案](#上傳檔案)
 
 ## 帳號註冊
 1. 進入 [GitHub](https://github.com/) 網站
-2. 填寫`Username`、`Email`、`Password`，並點擊`Sign up for GitHub`註冊帳號  
+2. 填寫 `Username`、`Email`、`Password` ，並點擊 `Sign up for GitHub` 註冊帳號  
 ![](./img/GitHub/register_01.png)
-3. 選擇`Unlimited public repositories for free.`並點擊`Continue`進入下一步  
+3. 選擇 `Unlimited public repositories for free.` 並點擊 `Continue` 進入下一步  
 ![](./img/GitHub/register_02.png)
 4. 填寫問卷或直接跳過  
 ![](./img/GitHub/register_03.png)
@@ -18,7 +17,23 @@
 ![](./img/GitHub/register_05.png)
 
 ## 建立與加入隊伍
-
-## 建立作業專案
+1. 點擊 iLearn 所公布之超連結  
+![](./img/GitHub/team_01.png)
+2. 進入 OAuth 授權頁面，點擊 `Authorize github` 進行授權  
+![](./img/GitHub/team_02.png)
+3. 進入 GitHub Classroom 頁面後，可以建立隊伍或加入隊伍，  
+![](./img/GitHub/team_03.png)
+    - 建立隊伍
+        1. 輸入隊伍名稱，並點擊 `Create team` 即可建立隊伍  
+![](./img/GitHub/team_04.png)
+        2. 出現以下畫面，代表隊伍已建立完成  
+![](./img/GitHub/team_05.png)
+        3. 同時，系統已自動建立隊伍作業專案  
+![](./img/GitHub/team_06.png)
+    - 加入隊伍
+        1. 找到想加入的隊伍，點擊 `Join` 即可加入隊伍  
+![](./img/GitHub/team_07.png)
+        2. 出現以下畫面，代表已經加入隊伍，此時即可存取隊伍作業專案  
+![](./img/GitHub/team_08.png)
 
 ## 上傳檔案
