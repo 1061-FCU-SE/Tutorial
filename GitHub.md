@@ -1,4 +1,9 @@
 # GitHub 基本用法
+- [帳號註冊](#帳號註冊)
+- [建立與加入隊伍](#建立與加入隊伍)
+- [建立作業專案](#建立作業專案)
+- [上傳檔案](#上傳檔案)
+
 ## 帳號註冊
 1. 進入 [GitHub](https://github.com/) 網站
 2. 填寫`Username`、`Email`、`Password`，並點擊`Sign up for GitHub`註冊帳號  
