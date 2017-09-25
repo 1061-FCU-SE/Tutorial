@@ -15,6 +15,7 @@
   JAVA IDE，不解釋
 
 ---
+## 目錄
 * Git 基本概念
-* GitHub 基本用法
+* [GitHub 基本用法](./GitHub.md)
 * 專案開發
