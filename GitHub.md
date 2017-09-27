@@ -1,10 +1,10 @@
-# GitHub 基本用法
-- [帳號註冊](#帳號註冊)
+# 1061 軟工 Term Project GitHub 操作手冊
+- [GitHub帳號註冊](#GitHub帳號註冊)
 - [建立小組專案](#建立小組專案)
 - [將其他組員設定為協作者](#將其他組員設定為協作者)
 - [上傳檔案](#上傳檔案)
 
-## 帳號註冊
+## GitHub帳號註冊
 1. 進入 [GitHub](https://github.com/) 網站
 2. 填寫 `Username`、`Email`、`Password` ，並點擊 `Sign up for GitHub` 註冊帳號  
 ![](./img/GitHub/register_01.png)

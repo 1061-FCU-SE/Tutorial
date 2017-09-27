@@ -14,6 +14,6 @@
   JAVA IDE，不解釋
 
 ## 目錄
+* [1061 軟工 Term Project GitHub 操作手冊](./GitHub.md)
 * [Git 介紹](./Git.md)
-* [GitHub 基本用法](./GitHub.md)
 * 專案開發
