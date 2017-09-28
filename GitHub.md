@@ -27,6 +27,10 @@
 3. 進入剛建立的專案，由專案名稱確認，該專案是由課程提供之專案fork出來的  
 ![](./img/GitHub/create_team_04.png)
 
+## 開啟 Issue Tracker
+由於助教需要透過 Issue Tracker 與大家溝通，請進入 `Settings` → `Options`，勾選 `Issues`  
+![](./img/GitHub/issue_01.png)
+
 ## 將其他組員設定為協作者
 1. 點擊 `Settings` → `Collaborators` 進入協作者設定頁面  
 ![](./img/GitHub/collaborator_01.png)
@@ -40,8 +44,6 @@
 ![](./img/GitHub/collaborator_05.png)
 5. 當隊員看到以下訊息，即表示已成為該專案之協作者  
 ![](./img/GitHub/collaborator_06.png)
-
-
 
 ## 上傳檔案
 1. 進入隊伍作業專案  
