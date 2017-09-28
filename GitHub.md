@@ -1,6 +1,7 @@
 # 1061 軟工 Term Project GitHub 操作手冊
 - [GitHub帳號註冊](#github帳號註冊)
 - [建立小組專案](#建立小組專案)
+- [開啟 Issue Tracker](#開啟-issue-tracker)
 - [將其他組員設定為協作者](#將其他組員設定為協作者)
 - [上傳檔案](#上傳檔案)
 
