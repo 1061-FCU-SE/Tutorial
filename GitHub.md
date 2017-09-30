@@ -20,6 +20,7 @@
 
 ## 建立小組專案
 1. 進入課程提供之專案  
+（請確實確認是 [BaseProject](https://github.com/1061-FCU-SE/BaseProject) 專案，而非現在這個 Tutorial 專案）  
 ![](./img/GitHub/create_team_01.png)
 2. 按下 `Fork` ，若出現以下視窗，請選擇自己的帳號  
 ![](./img/GitHub/create_team_02.png)
