@@ -23,3 +23,5 @@
 * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
 * [連猴子都能懂的Git入門指南](https://backlogtool.com/git-tutorial/tw/)
 * [為你自己學 Git](http://gitbook.tw/)
+* 一張圖搞懂 Git 狀態  
+  [![](http://www.moxie.io/images/git-operations.png)](http://www.moxie.io/images/git-operations.png)
