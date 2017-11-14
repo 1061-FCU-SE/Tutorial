@@ -1,9 +1,24 @@
 # 1061 軟工 Term Project GitHub 操作手冊
+- [前言](#前言)
 - [GitHub帳號註冊](#github帳號註冊)
 - [建立小組專案](#建立小組專案)
 - [開啟 Issue Tracker](#開啟-issue-tracker)
 - [將其他組員設定為協作者](#將其他組員設定為協作者)
 - [上傳檔案](#上傳檔案)
+
+
+## 前言
+這一章主要是 Github 的操作說明  
+但還是要簡單講一下 Github 是什麼  
+避免有人 Git 、 Github 分不清楚
+
+如果你有印象的話，Git 可以同步所有開發者的 code  
+但是實際要怎麼運作的呢？
+
+其實概念很簡單，只需要架設Server，讓所有開發者連線到 Server 來同步就好  
+而 Github 是一家公司提供免費服務，讓大家把 code 同步到他們的 Server  
+(謎之聲：那他們怎麼賺錢(或是說維持營運)？可以自己看一下價格表)  
+(謎之聲2：除了 Github，也有 Bitbucket、Gitlab、VSTS...其他相似的服務)
 
 ## GitHub帳號註冊
 1. 進入 [GitHub](https://github.com/) 網站
