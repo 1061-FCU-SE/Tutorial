@@ -17,6 +17,7 @@
 * [1061 軟工 Term Project GitHub 操作手冊](./GitHub.md)
 * [Git 介紹](./Git.md)
 * 專案開發
+* [Travis CI 自動測試](./Travis-CI.md)
 
 ## 額外資源
 ### Git
