@@ -17,7 +17,7 @@
 * [1061 軟工 Term Project GitHub 操作手冊](./GitHub.md)
 * [Git 介紹](./Git.md)
 * 專案開發
-* [Travis CI 自動測試](./Travis-CI.md)
+* [Travis CI 自動建置與測試](./Travis-CI.md)
 
 ## 額外資源
 ### Git
@@ -26,3 +26,5 @@
 * [為你自己學 Git](http://gitbook.tw/)
 * 一張圖搞懂 Git 狀態  
   [![](img/git-operations.png)](img/git-operations.png)
+### CI（Continuous Integration）
+* [使用 Travis-CI 整合 GitHub 進行自動化建置](https://blog.ccjeng.com/2016/05/Travis-CI.html)

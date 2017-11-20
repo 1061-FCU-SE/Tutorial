@@ -1,4 +1,4 @@
-# Travis CI
+# Travis CI 自動建置與測試
 若一個專案由多人共同開發，可能會相依到別人的程式碼，在自己的電腦測試通過，並不代表上線後就沒問題。  
 Travis CI 與 GitHub 高度整合，只要將程式碼 push 到 Github，Travis CI 即可自動從 GitHub 抓取最新版的程式碼，並進行自動測試。
 
