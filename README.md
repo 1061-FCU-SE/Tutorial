@@ -24,4 +24,4 @@
 * [連猴子都能懂的Git入門指南](https://backlogtool.com/git-tutorial/tw/)
 * [為你自己學 Git](http://gitbook.tw/)
 * 一張圖搞懂 Git 狀態  
-  [![](http://www.moxie.io/images/git-operations.png)](http://www.moxie.io/images/git-operations.png)
+  [![](img/git-operations.png)](img/git-operations.png)
